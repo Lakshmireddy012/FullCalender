@@ -1,0 +1,7 @@
+#calender {
+    width: 50%;
+    height: 50%;
+}
+.fc-day-header{
+    background-color: blueviolet  !important;
+}
